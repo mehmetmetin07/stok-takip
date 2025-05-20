@@ -1,0 +1,15 @@
+C:\projects\stok-takip\StokTakipApp\Utilities\bin\Debug\net6.0\Utilities.deps.json
+C:\projects\stok-takip\StokTakipApp\Utilities\bin\Debug\net6.0\Utilities.dll
+C:\projects\stok-takip\StokTakipApp\Utilities\bin\Debug\net6.0\Utilities.pdb
+C:\projects\stok-takip\StokTakipApp\Utilities\bin\Debug\net6.0\Entities.dll
+C:\projects\stok-takip\StokTakipApp\Utilities\bin\Debug\net6.0\Entities.pdb
+C:\projects\stok-takip\StokTakipApp\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\projects\stok-takip\StokTakipApp\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\stok-takip\StokTakipApp\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\projects\stok-takip\StokTakipApp\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\projects\stok-takip\StokTakipApp\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\projects\stok-takip\StokTakipApp\Utilities\obj\Debug\net6.0\Utilities.csproj.Up2Date
+C:\projects\stok-takip\StokTakipApp\Utilities\obj\Debug\net6.0\Utilities.dll
+C:\projects\stok-takip\StokTakipApp\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+C:\projects\stok-takip\StokTakipApp\Utilities\obj\Debug\net6.0\Utilities.pdb
+C:\projects\stok-takip\StokTakipApp\Utilities\obj\Debug\net6.0\ref\Utilities.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\stok-takip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A282CB-B8C8-41BD-B41B-3C6719A0714A}|StokTakipApp\\UI\\UI.csproj|c:\\projects\\stok-takip\\stoktakipapp\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A282CB-B8C8-41BD-B41B-3C6719A0714A}|StokTakipApp\\UI\\UI.csproj|solutionrelative:stoktakipapp\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A282CB-B8C8-41BD-B41B-3C6719A0714A}|StokTakipApp\\UI\\UI.csproj|c:\\projects\\stok-takip\\stoktakipapp\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7A282CB-B8C8-41BD-B41B-3C6719A0714A}|StokTakipApp\\UI\\UI.csproj|solutionrelative:stoktakipapp\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\projects\\stok-takip\\StokTakipApp\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "StokTakipApp\\UI\\Form1.cs",
+              "ToolTip": "C:\\projects\\stok-takip\\StokTakipApp\\UI\\Form1.cs",
+              "RelativeToolTip": "StokTakipApp\\UI\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:00:04.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\projects\\stok-takip\\StokTakipApp\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "StokTakipApp\\UI\\Form1.cs",
+              "ToolTip": "C:\\projects\\stok-takip\\StokTakipApp\\UI\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokTakipApp\\UI\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:59:57.394Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

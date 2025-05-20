@@ -1,0 +1,17 @@
+C:\projects\stok-takip\StokTakipApp\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\projects\stok-takip\StokTakipApp\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\projects\stok-takip\StokTakipApp\DAL\bin\Debug\net6.0\DAL.dll
+C:\projects\stok-takip\StokTakipApp\DAL\bin\Debug\net6.0\DAL.pdb
+C:\projects\stok-takip\StokTakipApp\DAL\bin\Debug\net6.0\Entities.dll
+C:\projects\stok-takip\StokTakipApp\DAL\bin\Debug\net6.0\Entities.pdb
+C:\projects\stok-takip\StokTakipApp\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\projects\stok-takip\StokTakipApp\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\stok-takip\StokTakipApp\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\projects\stok-takip\StokTakipApp\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\projects\stok-takip\StokTakipApp\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\projects\stok-takip\StokTakipApp\DAL\obj\Debug\net6.0\DAL.csproj.Up2Date
+C:\projects\stok-takip\StokTakipApp\DAL\obj\Debug\net6.0\DAL.dll
+C:\projects\stok-takip\StokTakipApp\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\projects\stok-takip\StokTakipApp\DAL\obj\Debug\net6.0\DAL.pdb
+C:\projects\stok-takip\StokTakipApp\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\projects\stok-takip\StokTakipApp\DAL\obj\Debug\net6.0\ref\DAL.dll
